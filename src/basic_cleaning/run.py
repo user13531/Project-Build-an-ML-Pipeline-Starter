@@ -68,7 +68,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--output_type", 
         type = str,
-        help = "Output Type,
+        help = "Output Type",
         required = True
     )
 
@@ -89,7 +89,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--max_price",
         type = float,
-        help = "Maximum Price,
+        help = "Maximum Price",
         required = True
     )
 
